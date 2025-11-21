@@ -1,6 +1,8 @@
 # 📰 Tech News Tracker  
 ### Automated Hacker News Scraper & ETL Pipeline (Python + SQL + Local Data Lake)
 
+web app URL : https://aadishkansal-tech-news-tracker-dashboard-qyum9g.streamlit.app/
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
 ![SQL](https://img.shields.io/badge/Database-SQLite-green.svg)
 ![Scraper](https://img.shields.io/badge/Type-Web%20Scraper-orange.svg)
